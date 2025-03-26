@@ -17,8 +17,8 @@ This project is a **Blog API** demonstrating how backend development and APIs wo
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/anubhab0709/blog-api.git
-   cd blog-api
+   git clone https://github.com/anubhab0709/Blog_API.git
+   cd Blog_API
    ```
 2. Install dependencies:
    ```sh
