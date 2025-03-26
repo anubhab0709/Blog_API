@@ -1,4 +1,4 @@
-# Blog API Project
+# Simple Blog Website
 
 This project is a **Blog API** demonstrating how backend development and APIs work using **Node.js**, **Express.js**. The API allows users to create, read, update, and delete blog posts.
 
